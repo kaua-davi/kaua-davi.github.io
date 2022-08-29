@@ -37,7 +37,8 @@
     color: var(--logo-texto);
     font-size: 20px;
     padding: 18px;
-    padding-right: 37vw;
+    padding-right: calc(100vw - 15.62rem);
+    /* padding-right: 37vw; */
 }
 
 .links{
@@ -59,7 +60,7 @@
     font-size: 20px;
     color: var(--logo-texto);
     align-items: center;
-    padding-right: 100vw;
+    /* padding-right: 100vw; */
 }
 
 .icons a{
